@@ -12,7 +12,7 @@ STEPS of build
 1. mkdir ~{your_catkin_workspace}/src/hello_world
 2. cd ~{your_catkin_workspace}/src/{project_name}
 3. git clone https://github.com/AlysonQ/hello_world
-4. cd ~~{your_catkin_workspace}/
+4. cd ~/{your_catkin_workspace}/
 5. catkin_make
 
 STEPS of run
