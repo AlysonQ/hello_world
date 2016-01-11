@@ -9,8 +9,8 @@
 #An example for learnning how to make a ROS node
 
 #STEPS of build
-#1. mkdir ~{your_catkin_workspace}/src/hello_world
-#2. cd ~{your_catkin_workspace}/src/{project_name}
+#1. mkdir ~{your_catkin_workspace}/src/
+#2. cd ~{your_catkin_workspace}/src/
 #3. git clone https://github.com/AlysonQ/hello_world
 #4. cd ~/{your_catkin_workspace}/
 #5. catkin_make
